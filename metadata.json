@@ -1,0 +1,6 @@
+{
+  "name": "Terminal Prank Simulator",
+  "description": "100% offline entertainment fake hacker typer and terminal prank simulator with fictional modes, sound effects, and panic exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
